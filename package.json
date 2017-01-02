@@ -1,0 +1,23 @@
+{
+  "name": "rc_portfolio",
+  "version": "1.0.0",
+  "description": "personal portfolio for ryan chin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rc7s/Portfolio.git"
+  },
+  "keywords": [
+    "ryan",
+    "chin"
+  ],
+  "author": "ryan chin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rc7s/Portfolio/issues"
+  },
+  "homepage": "https://github.com/rc7s/Portfolio#readme"
+}
