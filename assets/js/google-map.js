@@ -8,7 +8,7 @@ GOOGLE MAP
 
 			// Map Coordination
 
-			var latlng = new google.maps.LatLng(26.977530,75.692714);
+			var latlng = new google.maps.LatLng(40.691914, -73.984627);
 
 			// Map Options
 			var myOptions = {
@@ -33,7 +33,7 @@ GOOGLE MAP
 
 		  	// First Marker Coordination
 			
-			var myLatlng = new google.maps.LatLng(26.977530,75.692714);
+			var myLatlng = new google.maps.LatLng(40.691914, -73.984627);
 
 			// Your Texts 
 
